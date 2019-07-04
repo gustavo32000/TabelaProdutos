@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\bin\Debug\netcoreapp2.1\TabelaProdutos.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\bin\Debug\netcoreapp2.1\TabelaProdutos.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\bin\Debug\netcoreapp2.1\TabelaProdutos.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\bin\Debug\netcoreapp2.1\TabelaProdutos.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\bin\Debug\netcoreapp2.1\TabelaProdutos.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\TabelaProdutos\obj\Debug\netcoreapp2.1\TabelaProdutos.pdb
